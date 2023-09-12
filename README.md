@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm HeeJun JUNG</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 🌱 I’m currently learning **Spring boot, AWS, Azure, Docker, Jenkins**
+- 🌱 I’m currently learning **Spring boot, AWS, Azure, Docker, Jenkins, Oracle**
 
-- 💬 Ask me about **Spring boot,AWS, Docker**
 
 - 📫 How to reach me **hjju9898@naver.com**
 
